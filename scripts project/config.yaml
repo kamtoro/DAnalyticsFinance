@@ -1,0 +1,5 @@
+default:
+  date_format: '%Y-%m-%d'
+  parse_dates: 
+    deed_date
+#       Purchased On
